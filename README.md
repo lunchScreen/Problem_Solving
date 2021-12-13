@@ -54,7 +54,7 @@ Commit Message : 자유 <br/>
 
 |기간|문제|
 |:-:|:-:|
-|21.12.13~21.12.19||
+|21.12.13~21.12.19|[[S]B1004](https://github.com/lunchScreen/Problem_Solving/blob/main/%EC%9D%B4%EC%A7%80%EC%88%98/Swift/Baekjoon_1004.swift), [[P]B1004](https://github.com/lunchScreen/Problem_Solving/blob/main/%EC%9D%B4%EC%A7%80%EC%88%98/Python/Baekjoon_1004.py)|
 |||
 
 
