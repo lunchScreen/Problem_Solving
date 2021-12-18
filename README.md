@@ -55,7 +55,7 @@ Commit Message : 자유 <br/>
 
 |기간|문제|
 |:-:|:-|
-|21.12.13~21.12.19|[[S]B1004](https://github.com/lunchScreen/Problem_Solving/blob/main/이지수/Swift/Baekjoon_1004.swift), [[P]B1004](https://github.com/lunchScreen/Problem_Solving/blob/main/이지수/Python/Baekjoon_1004.py), [[S]B1052](https://github.com/lunchScreen/Problem_Solving/blob/main/이지수/Swift/Baekjoon_1052.swift), [[P]B1052](https://github.com/lunchScreen/Problem_Solving/blob/main/이지수/Python/Baekjoon_1052.py), [[S]B1025](https://github.com/lunchScreen/Problem_Solving/blob/main/이지수/Swift/Baekjoon_1025.swift), [[P]B1025](https://github.com/lunchScreen/Problem_Solving/blob/main/이지수/Python/Baekjoon_1025.py)|
+|21.12.13~21.12.19|B1004[[S](https://github.com/lunchScreen/Problem_Solving/blob/main/이지수/Swift/Baekjoon_1004.swift)/[P](https://github.com/lunchScreen/Problem_Solving/blob/main/이지수/Python/Baekjoon_1004.py)], B1052[[S](https://github.com/lunchScreen/Problem_Solving/blob/main/이지수/Swift/Baekjoon_1052.swift)/[P](https://github.com/lunchScreen/Problem_Solving/blob/main/이지수/Python/Baekjoon_1052.py)] B1025[[S](https://github.com/lunchScreen/Problem_Solving/blob/main/이지수/Swift/Baekjoon_1025.swift)/[P](https://github.com/lunchScreen/Problem_Solving/blob/main/이지수/Python/Baekjoon_1025.py)], B1034[[S](https://github.com/lunchScreen/Problem_Solving/blob/main/이지수/Swift/Baekjoon_1034.swift)/[P](https://github.com/lunchScreen/Problem_Solving/blob/main/이지수/Python/Baekjoon_1034.py)], B1043[[S](https://github.com/lunchScreen/Problem_Solving/blob/main/이지수/Swift/Baekjoon_1043.swift)/[P](https://github.com/lunchScreen/Problem_Solving/blob/main/이지수/Python/Baekjoon_1043.py)]|
 |||
 
 
