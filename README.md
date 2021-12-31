@@ -1,3 +1,5 @@
+
+
 # Problem_Solving
 알고리즘을 공부하는 버디들
 
@@ -44,6 +46,7 @@ Commit Message : 자유 <br/>
 |21.12.10~21.12.12|[모음사전](./신재웅/%5B프로그래머스%5D%20신재웅_모음사전.swift), [교점에 별 만들기](./신재웅/%5B프로그래머스%5D%20신재웅_교점에%20별%20만들기.swift), [피로도](./신재웅/%5B프로그래머스%5D%20신재웅_피로도.swift), [멀리 뛰기](./신재웅/%5B프로그래머스%5D%20신재웅_멀리%20뛰기.swift), [N-Queen](./신재웅/%5B프로그래머스%5D%20신재웅_N-Queen.swift)|
 |21.12.13~21.12.19|[단어 변환](/신재웅/%5B프로그래머스%5D%20신재웅_단어%20변환.swift), [배달](./신재웅/%5B프로그래머스%5D%20신재웅_배달.swift), [불량 사용자](./신재웅/%5B프로그래머스%5D%20신재웅_불량%20사용자.swift), [경주로 건설](./신재웅/%5B프로그래머스%5D%20신재웅_경주로%20건설.swift), [이중우선순위큐](./신재웅/%5B프로그래머스%5D%20신재웅_이중우선순위큐.swift)|
 |21.12.20~21.12.26|[후보키](./신재웅/%5B프로그래머스%5D%20신재웅_후보키.swift), [순위 검색](./신재웅/%5B프로그래머스%5D%20신재웅_순위%20검색.swift), [섬 연결하기](./신재웅/%5B프로그래머스%5D%20신재웅_섬%20연결하기.swift), [디스크 컨트롤러](./신재웅/%5B프로그래머스%5D%20신재웅_디스크%20컨트롤러.swift), [메뉴 리뉴얼](./신재웅/%5B프로그래머스%5D%20신재웅_메뉴%20리뉴얼.swift)|
+|21.12.27~22.01.01|[Plus Minus](./신재웅/Plus%20Minus.swift), [Mini-Max Sum](./신재웅/Mini-Max%20Sum.swift), [Time Conversion](./신재웅/Time%20Conversion.swift), [Sparse Arrays](./신재웅/Sparse%20Arrays.swift), [Lonely Integer](./신재웅/Lonely%20Integer.swift), [Flipping bits](./신재웅/Filpping%20bits.swift), [Diagonal Difference](./신재웅/Diagonal%20Difference.swift), [Counting Sort 1](./신재웅/Counting%20Sort%201.swift), [Pangrams](./신재웅/Pangrams.swift), [Permuting Two Arrays](./신재웅/Permuting%20Two%20Arrays.swift), [Subarray Division 1](./신재웅/Subarray%20Division%201.swift)|
 
 ## 이나정
 
