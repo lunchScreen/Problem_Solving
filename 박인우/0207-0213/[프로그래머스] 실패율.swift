@@ -32,3 +32,23 @@ func solution(_ N:Int, _ stages:[Int]) -> [Int] {
 
     return rate.sorted(by: <).sorted { $0.value > $1.value }.map { $0.key }
 }
+
+import Foundation
+
+func solution(_ N:Int, _ stages:[Int]) -> [Int] {
+    var ret = [[Float]]()
+    var numOfPlayer = stages.count
+    
+    for i in 1...N {
+        let remain = stages.filter { $0 == i }.count
+        var temp = [Float]()
+        temp.append(Float(i))
+        temp.append(Float(remain)/Float(numOfPlayer))
+        ret.append(temp)
+        numOfPlayer -= remain
+    }
+    
+    
+    return ret.sorted{ $0[1] > $1[1] }.map{Int($0[0])}
+        
+}
