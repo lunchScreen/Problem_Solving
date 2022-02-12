@@ -51,6 +51,7 @@ Commit Message : 자유 <br/>
 | 22.01.17~22.01.23 | [신고 결과 받기](https://github.com/lunchScreen/Problem_Solving/blob/main/박정아/%5B프로그래머스%5D%20박정아_신고%20결과%20받기.swift), [k진수에서 소수 개수 구하기](https://github.com/lunchScreen/Problem_Solving/blob/main/박정아/%5B프로그래머스%5D%20박정아_k진수에서%20소수%20개수%20구하기.swift), [거리두기 확인하기](https://github.com/lunchScreen/Problem_Solving/blob/main/박정아/%5B프로그래머스%5D%20박정아_거리두기%20확인하기.swift), [큰 수 A+B](https://github.com/lunchScreen/Problem_Solving/blob/main/박정아/%5B백준%5D%20박정아_큰%20수%20A%2BB.swift), [소트인사이드](https://github.com/lunchScreen/Problem_Solving/blob/main/박정아/%5B백준%5D%20박정아_%20소트인사이드.swift) |
 | 22.01.24~22.01.30 | [영어 끝말잇기](https://github.com/lunchScreen/Problem_Solving/blob/main/박정아/%5B프로그래머스%5D%20박정아_영어%20끝말잇기.swift), [소수 찾기](https://github.com/lunchScreen/Problem_Solving/blob/main/박정아/%5B프로그래머스%5D%20박정아_소수%20찾기.swift) |
 | 22.01.31~22.02.06 | [직사각형에서 탈출](https://github.com/lunchScreen/Problem_Solving/blob/main/박정아/%5B백준%5D%20박정아_직사각형에서%20탈출.swift) |
+| 22.02.07~22.02.13 | [균형잡힌 세상](https://github.com/lunchScreen/Problem_Solving/blob/main/박정아/%5B백준%5D%20박정아_균형잡힌%20세상.swift)
 
 ## 신재웅
 
