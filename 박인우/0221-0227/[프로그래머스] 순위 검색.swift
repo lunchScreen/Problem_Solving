@@ -1,5 +1,6 @@
 import Foundation
 
+// 효율성 테스트 실패
 func solution(_ info:[String], _ query:[String]) -> [Int] {
     
     var infoDictionaryList = info.map {
@@ -39,4 +40,53 @@ func solution(_ info:[String], _ query:[String]) -> [Int] {
     return result
 }
 
-// 효율성 
+// 효율성 테스트 3까지 성공
+import Foundation
+
+func solution(_ info:[String], _ query:[String]) -> [Int] {
+    var dic = [String:[Int]]()
+    
+    info.forEach {    
+        var dfs = [(0,$0.components(separatedBy: " "))]
+        
+        while dfs.count > 0 {
+            var now = dfs.removeLast()
+            let idx = now.0
+            var lst = now.1
+            
+            if idx == 4 {
+                let key = lst[0...3].joined()
+                dic[key, default: [Int]()].append(Int(lst[4])!)
+                continue
+            }
+            
+            dfs.append((idx+1,lst))
+            lst[idx] = "-"
+            dfs.append((idx+1,lst))
+        }
+    }
+    
+    for key in dic.keys {
+        dic[key] = dic[key]!.sorted(by: >)
+    }
+    
+    let result: [Int] = query.map { str in
+        let lst = str.components(separatedBy: " ")
+        let key = lst[0] + lst[2] + lst[4] + lst[6]
+        let limitScore = Int(lst[7])!
+        if let candidates = dic[key] {
+            var passed = 0
+            while passed < candidates.count {
+                if candidates[passed] < limitScore {
+                    break
+                }
+                passed += 1
+            }
+            return passed
+        } else {
+            return 0
+        }
+    }
+    
+    return result
+}
