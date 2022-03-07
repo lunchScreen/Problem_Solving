@@ -40,6 +40,8 @@ Commit Message : 자유 <br/>
 |22.02.07~22.02.13|[주간폴더 링크](https://github.com/lunchScreen/Problem_Solving/tree/main/%EB%B0%95%EC%9D%B8%EC%9A%B0/0207-0213)|
 |22.02.14~22.02.20|[주간폴더 링크](https://github.com/lunchScreen/Problem_Solving/tree/main/%EB%B0%95%EC%9D%B8%EC%9A%B0/0214-0220)|
 |22.02.21~22.02.27|[주간폴더 링크](https://github.com/lunchScreen/Problem_Solving/tree/main/%EB%B0%95%EC%9D%B8%EC%9A%B0/0221-0227)|
+|22.02.28~22.03.06|[주간폴더 링크](https://github.com/lunchScreen/Problem_Solving/tree/main/%EB%B0%95%EC%9D%B8%EC%9A%B0/0228-0306)|
+|22.03.07~22.03.13|[주간폴더 링크](https://github.com/lunchScreen/Problem_Solving/tree/main/%EB%B0%95%EC%9D%B8%EC%9A%B0/0307-0313)|
 
 ## 박정아
 
