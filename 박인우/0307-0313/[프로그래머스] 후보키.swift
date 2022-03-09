@@ -69,3 +69,5 @@ func solution(_ relation:[[String]]) -> Int {
     
     return answer
 }
+
+// 무작정 풀어서 코드가 좀 더럽다... 내일 더 좋은 방법 찾아보고 코드정리까지 할 예정ㅎ
