@@ -30,3 +30,21 @@ func solution(_ n:Int) -> Int
     
     return -1
 }
+
+// 효율성 탈락
+
+import Foundation
+
+func solution(_ n:Int) -> Int
+{
+    var now = n
+    
+    while true {
+        now += 1
+        if now.nonzeroBitCount == n.nonzeroBitCount {
+            return now
+        }
+    }
+    
+    return -1
+}
