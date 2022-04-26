@@ -14,3 +14,17 @@ func solution(_ n:Int, _ left:Int64, _ right:Int64) -> [Int] {
     
     return Array(result[Int(left)...Int(right)])
 }
+
+func solution(_ n:Int, _ left:Int64, _ right:Int64) -> [Int] {
+    var result = [Int]()
+    
+    for index in Int(left)+1...Int(right)+1 {
+        var number = max(index / n + 1,index % n)
+        if index % n == 0 {
+            number = n
+        }
+        result.append(number)
+    }
+    
+    return result
+}
