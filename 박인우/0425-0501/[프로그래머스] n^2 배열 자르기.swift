@@ -28,3 +28,11 @@ func solution(_ n:Int, _ left:Int64, _ right:Int64) -> [Int] {
     
     return result
 }
+
+func solution(_ n:Int, _ left:Int64, _ right:Int64) -> [Int] {
+    return (left...right).map {
+        Int($0)
+    }.map { 
+        max($0 / n, $0 % n) + 1
+    } 
+}
