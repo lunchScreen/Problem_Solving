@@ -85,6 +85,7 @@ Commit Message : 자유 <br/>
 |22.04.18~22.04.24|[부분수열의 합](./신재웅/부분수열의%20합.swift), [감시](./신재웅/감시.swift)|
 |22.04.25~22.05.01|[행렬 테두리 회전하기](./신재웅/%5B프로그래머스%5D%20신재웅_행렬%20테두리%20회전하기.swift)|
 |22.05.02~22.05.08|[한수](./신재웅/한수.swift)|
+|22.05.09~22.05.15|[Fly me to the Alpha Centauri](https://github.com/sustainable-git/Coding-Test/commit/8b644e4132e44390edbbcb955da7a12c17add87b), [암호 만들기](https://github.com/sustainable-git/Coding-Test/commit/048c23495915f55ad4a1751b1d706c4a63d5e87c)|
 
 ## 이나정
 
