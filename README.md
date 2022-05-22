@@ -86,6 +86,7 @@ Commit Message : 자유 <br/>
 |22.04.25~22.05.01|[행렬 테두리 회전하기](./신재웅/%5B프로그래머스%5D%20신재웅_행렬%20테두리%20회전하기.swift)|
 |22.05.02~22.05.08|[한수](./신재웅/한수.swift)|
 |22.05.09~22.05.15|[Fly me to the Alpha Centauri](https://github.com/sustainable-git/Coding-Test/commit/8b644e4132e44390edbbcb955da7a12c17add87b), [암호 만들기](https://github.com/sustainable-git/Coding-Test/commit/048c23495915f55ad4a1751b1d706c4a63d5e87c)|
+|22.05.16~22.05.22|[단어 뒤집기 2](https://github.com/sustainable-git/Coding-Test/commit/26be23135cf6b4e39e277fb1854afa90e02e1da5)|
 
 ## 이나정
 
