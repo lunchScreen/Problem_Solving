@@ -87,6 +87,7 @@ Commit Message : 자유 <br/>
 |22.05.02~22.05.08|[한수](./신재웅/한수.swift)|
 |22.05.09~22.05.15|[Fly me to the Alpha Centauri](https://github.com/sustainable-git/Coding-Test/commit/8b644e4132e44390edbbcb955da7a12c17add87b), [암호 만들기](https://github.com/sustainable-git/Coding-Test/commit/048c23495915f55ad4a1751b1d706c4a63d5e87c)|
 |22.05.16~22.05.22|[단어 뒤집기 2](https://github.com/sustainable-git/Coding-Test/commit/26be23135cf6b4e39e277fb1854afa90e02e1da5)|
+|22.05.23~22.05.29|[연산자 끼워넣기](https://github.com/sustainable-git/Coding-Test/commit/d0900a79e756c0bd2ff530933527b58d2d26fbea), [최대 힙](https://github.com/sustainable-git/Coding-Test/commit/3b384f69d2291283a5f16fdeac1e5bfd47a795d6)|
 
 ## 이나정
 
